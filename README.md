@@ -1,6 +1,6 @@
 
 # Hi there 👋, my name is Edvaldo
-https://s3-ap-south-1.amazonaws.com/tapchief-blog/blog/wp-content/uploads/2020/01/28152535/How-to-become-a-front-end-developer-in-2020.png
+![](https://s3-ap-south-1.amazonaws.com/tapchief-blog/blog/wp-content/uploads/2020/01/28152535/How-to-become-a-front-end-developer-in-2020.png)
 
 I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr) and designer. I love trying out new technologies and update with modern tools helping our lives more easier.
 
